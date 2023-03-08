@@ -1,0 +1,16 @@
+C:\Users\pawko\RiderProjects\LoginTokenifyXv1\LoginTokenifyXv1\bin\Debug\LoginTokenifyXv1.exe.config
+C:\Users\pawko\RiderProjects\LoginTokenifyXv1\LoginTokenifyXv1\bin\Debug\LoginTokenifyXv1.pdb
+C:\Users\pawko\RiderProjects\LoginTokenifyXv1\LoginTokenifyXv1\obj\Debug\LoginTokenifyXv1.csproj.AssemblyReference.cache
+C:\Users\pawko\RiderProjects\LoginTokenifyXv1\LoginTokenifyXv1\obj\Debug\LoginTokenifyXv1.csproj.SuggestedBindingRedirects.cache
+C:\Users\pawko\RiderProjects\LoginTokenifyXv1\LoginTokenifyXv1\obj\Debug\LoginTokenifyXv1.Properties.Resources.resources
+C:\Users\pawko\RiderProjects\LoginTokenifyXv1\LoginTokenifyXv1\obj\Debug\LoginTokenifyXv1.csproj.GenerateResource.cache
+C:\Users\pawko\RiderProjects\LoginTokenifyXv1\LoginTokenifyXv1\obj\Debug\LoginTokenifyXv1.csproj.CoreCompileInputs.cache
+C:\Users\pawko\RiderProjects\LoginTokenifyXv1\LoginTokenifyXv1\obj\Debug\LoginTokenifyXv1.exe
+C:\Users\pawko\RiderProjects\LoginTokenifyXv1\LoginTokenifyXv1\obj\Debug\LoginTokenifyXv1.pdb
+C:\Users\pawko\RiderProjects\LoginTokenifyXv1\LoginTokenifyXv1\bin\Debug\Guna.UI2.dll
+C:\Users\pawko\RiderProjects\LoginTokenifyXv1\LoginTokenifyXv1\obj\Debug\LoginTokenifyXv1.Form1.resources
+C:\Users\pawko\RiderProjects\LoginTokenifyXv1\LoginTokenifyXv1\obj\Debug\LoginTokenifyXv1.csproj.CopyComplete
+C:\Users\pawko\RiderProjects\LoginTokenifyXv1\LoginTokenifyXv1\obj\Debug\LoginTokenifyXv1.Main.resources
+C:\Users\pawko\RiderProjects\LoginTokenifyXv1\LoginTokenifyXv1\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\pawko\RiderProjects\LoginTokenifyXv1\LoginTokenifyXv1\obj\Debug\LoginTokenifyXv1.UC_page.resources
+C:\Users\pawko\RiderProjects\LoginTokenifyXv1\LoginTokenifyXv1\obj\Debug\LoginTokenifyXv1.Soon.resources
